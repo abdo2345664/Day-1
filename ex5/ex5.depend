@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1725360673 source:c:\users\youcode\downloads\ex5\main.c
+	<stdio.h>
+	<stdlib.h>
+
